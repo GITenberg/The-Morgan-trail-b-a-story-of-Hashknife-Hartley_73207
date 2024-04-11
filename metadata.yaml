@@ -1,0 +1,38 @@
+_repo: The-Morgan-trail-b-a-story-of-Hashknife-Hartley_73207
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tuttle, W. C. (Wilbur C.)
+    aliases:
+    - Tuttle, Wilbur C.
+    - Tuttle, Wilbur Coleman
+    birthdate: 1883
+    deathdate: 1969
+    gutenberg_agent_id: '52836'
+    url: http://www.gutenberg.org/2009/agents/52836
+    wikipedia: https://en.wikipedia.org/wiki/W._C._Tuttle
+description: ''
+gutenberg_issued: '2024-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73207'
+language: en
+pgterms:marc905: 20240315193748tuttle
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aBoston, MA :$bHoughton Mifflin Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Youth -- Fiction'
+- !lcsh 'Hartley, Hashknife (Fictitious character) -- Fiction'
+- !lcsh 'Stevens, Sleepy (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Morgan trail : $b a story of Hashknife Hartley'
+url: http://www.gutenberg.org/ebooks/73207
